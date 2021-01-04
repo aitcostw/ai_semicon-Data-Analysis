@@ -1,3 +1,5 @@
+![Demo Application Map](https://raw.githubusercontent.com/aimwts/aiTAAS-Edge/master/Taas_logo_s.jpg "Demo Application Map")
+
 # ai_semicon-Data-Analysis
 
 ##Data Analysis in Semiconductor Manufacturing 
