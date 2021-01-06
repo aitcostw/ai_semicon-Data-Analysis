@@ -6,8 +6,8 @@ label of Yield Pass/Fail."
 #Loading data to workspace
 
 library(data.table)
-feature=fread("C:/Users/aimwt/OneDrive/ai_semicon-Data-Analysis/wafer_dataset/secom.data", data.table = F)
-label = fread("C:/Users/aimwt/OneDrive/ai_semicon-Data-Analysis/wafer_dataset/secom_labels.data", data.table = F)
+feature=fread("https://raw.githubusercontent.com/aimwts/ai_semicon-Data-Analysis/main/wafer_dataset/secom.data", data.table = F)
+label = fread("https://raw.githubusercontent.com/aimwts/ai_semicon-Data-Analysis/main/wafer_dataset/secom_labels.data", data.table = F)
 data = cbind(label,feature)
 colnames(data) = c("Class", "Time", paste0(rep("Feature", ncol(feature)), seq(1,ncol(feature))))
 data$Class = factor(data$Class, labels = c("pass", "fail"))
