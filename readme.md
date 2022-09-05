@@ -7,7 +7,9 @@ https://rstudio-pubs-static.s3.amazonaws.com/412485_a6031260e33e4b4b92cdeb1e18bf
 
 Please note that our goal is to learn this dataset then apply it to actual operation of a semiconductor factory. 
 
-# On-line DEMO
+# TCOS - Test Center Operating System is for running AI-based semiconductor Test Center
+
+# On-line DEMO - contact us for more information
 
 ## Contact us to have username and password
 
