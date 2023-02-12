@@ -17,6 +17,6 @@ Please note that our goal is to learn this dataset then apply it to actual opera
 
 http://r.aitestcenter.net:8787
 
-Run - CTRL+Shift+Return
+To Run the demo - CTRL+Alt+R 
 
 
