@@ -11,7 +11,7 @@ Please note that our goal is to learn this dataset then apply it to actual opera
 
 # On-line DEMO - contact us for more information
 
-# New demo available ob line 2013
+# New demo available on line 2013
 
 ## Contact us to have username and password
 
